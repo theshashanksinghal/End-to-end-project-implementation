@@ -1,0 +1,23 @@
+tensorflow
+tensorflow-metal
+bayesian-optimization
+gym
+pandas
+numpy
+scikit-learn
+scipy
+jupyter
+ipykernel
+matplotlib
+python-box
+dvc
+seaborn
+notebook
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
